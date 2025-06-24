@@ -8,8 +8,12 @@ To design an interactive Power BI dashboard that helps HR teams analyze and moni
 
 ## 🧰Tools & Technologies Used
 -Power BI
+
 -Microsoft Excel (for mock HR data)
+
 -DAX (for calculated measures and KPIs)
+
 -Power Query (for data transformation and cleaning)
+
 
 ##
