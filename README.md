@@ -24,3 +24,15 @@ To design an interactive Power BI dashboard that helps HR teams analyze and moni
 | `Inactive Employees per Year` | Trend of exits per year             |
 | `Gender Distribution`         | Ratio of male/female/other          |
 
+## 📊Dashboard Pages & Visuals
+🔸 KPI Cards
+
+🔸 Trend Charts
+
+🔸 Bar Charts
+
+🔸 Stacked Bar
+
+🔸 Pie Chart
+
+🔸 Slicers
