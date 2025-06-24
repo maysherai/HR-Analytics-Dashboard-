@@ -36,3 +36,14 @@ To design an interactive Power BI dashboard that helps HR teams analyze and moni
 🔸 Pie Chart
 
 🔸 Slicers
+
+## 🎯Insights Delivered
+Identified departments with high attrition.
+
+Visualized hiring channel performance (e.g., Referral, Consultant).
+
+Highlighted job roles with lower average tenure.
+
+Promoted workforce diversity monitoring.
+
+Enabled HR to plan workforce requirements based on historical data.
