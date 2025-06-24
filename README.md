@@ -5,3 +5,5 @@ To design an interactive Power BI dashboard that helps HR teams analyze and moni
 
 ## Data Source
 - <a href="https://github.com/maysherai/HR-Analytics-Dashboard-/blob/main/HR_Analytics_dataset.xlsx">Dataset</a>
+
+## 🧰 3. Tools & Technologies Used
