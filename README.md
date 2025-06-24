@@ -15,5 +15,12 @@ To design an interactive Power BI dashboard that helps HR teams analyze and moni
 
 -Power Query (for data transformation and cleaning)
 
+## 🧠Key Metrics Calculated (Using DAX)
+| Metric                        | Description                         |
+| ----------------------------- | ----------------------------------- |
+| `Attrition Rate`              | % of employees who left the company |
+| `Average Tenure in Month`     | Avg time employees stayed           |
+| `Total Employees`             | Count of current workforce          |
+| `Inactive Employees per Year` | Trend of exits per year             |
+| `Gender Distribution`         | Ratio of male/female/other          |
 
-##
