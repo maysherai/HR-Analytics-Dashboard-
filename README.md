@@ -51,3 +51,11 @@ To design an interactive Power BI dashboard that helps HR teams analyze and moni
 ## 🖼️Dashboard Screenshot
 ![HR_Dashboard](https://github.com/user-attachments/assets/85dbdb9d-4068-4998-b677-42b9f8d68dba)
 
+## 🧑‍💼Who Can Use This
+-HR Managers
+
+-Talent Acquisition Analysts
+
+-Business Intelligence Professionals
+
+-Beginners in Power BI looking for HR use cases
